@@ -1,7 +1,7 @@
 
 ![mbelesiu's github stats](https://github-readme-stats.vercel.app/api?username=mbelesiu&show_icons=true&theme=vision-friendly-dark)
 ### Hi there 👋
-### ⚡ I’m currently working on my audiolog journaling app. Ask me about it!
+### ⚡ I’m currently working on my Audiolog Journaling app. Ask me about it! ⚡
 <!--### 🌱 I’m currently learning ... -->
 <!--
 **mbelesiu/mbelesiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
