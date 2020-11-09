@@ -1,5 +1,5 @@
-
-![mbelesiu's github stats](https://github-readme-stats.vercel.app/api?username=mbelesiu&show_icons=true&theme=vision-friendly-dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelesiu&layout=compact)](https://github.com/mbelesiu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelesiu&layout=compact)](https://github.com/mbelesiu/github-readme-stats)
+![mbelesiu's github stats](https://github-readme-stats.vercel.app/api?username=mbelesiu&show_icons=true&theme=vision-friendly-dark) 
 ### Hi there 👋
 ### ⚡ I’m currently working on my Audiolog Journaling app. Ask me about it! ⚡
 <!--### 🌱 I’m currently learning ... -->
