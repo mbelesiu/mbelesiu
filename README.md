@@ -1,8 +1,6 @@
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelesiu&layout=compact)](https://github.com/mbelesiu/github-readme-stats)
 
-<!---![mbelesiu's github stats](https://github-readme-stats.vercel.app/api?username=mbelesiu&show_icons=true&theme=vision-friendly-dark) --->
 ### Hi there 👋
 ### ⚡ I’m currently working on my Audiolog Journaling app. Ask me about it! ⚡
 
@@ -18,11 +16,14 @@
   <img src="https://img.shields.io/badge/EMAIL-matt.belesiu@gmail.com-d44638?style=for-the-badge"/>
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelesiu&layout=compact)](https://github.com/mbelesiu/github-readme-stats)
 
+<!---![mbelesiu's github stats](https://github-readme-stats.vercel.app/api?username=mbelesiu&show_icons=true&theme=vision-friendly-dark) --->
 
+<!--### 🌱 I’m currently learning ... -->
 <!--
 **mbelesiu/mbelesiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<!--### 🌱 I’m currently learning ... -->
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
