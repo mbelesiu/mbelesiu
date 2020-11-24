@@ -5,6 +5,8 @@
 ### ⚡ I’m currently working on my Audiolog Journaling app. Ask me about it! ⚡
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelesiu&layout=compact)](https://github.com/mbelesiu/github-readme-stats)
+
 ### Want to reach out?
 <!-- LinkedIn Contact -->
 <a href="https://www.linkedin.com/in/mbelesiu/" target="_blank">
@@ -15,9 +17,6 @@
 <a href="mailto:matt.belesiu@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-matt.belesiu@gmail.com-d44638?style=for-the-badge"/>
 </a>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelesiu&layout=compact)](https://github.com/mbelesiu/github-readme-stats)
 
 <!---![mbelesiu's github stats](https://github-readme-stats.vercel.app/api?username=mbelesiu&show_icons=true&theme=vision-friendly-dark) --->
 
