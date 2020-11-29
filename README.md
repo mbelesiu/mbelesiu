@@ -4,7 +4,6 @@
 ### Hi there 👋
 ### ⚡ I’m currently working on my Audiolog Journaling app. Ask me about it! ⚡
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelesiu&layout=compact)](https://github.com/mbelesiu/github-readme-stats)
 
 ### Want to reach out?
