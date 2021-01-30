@@ -1,7 +1,4 @@
   <h3> Hi there 👋 </h3>
-  <h3> ⚡ I’m currently working on my Audiolog Journaling app. Ask me about it! ⚡ </h3>
-  <h3> ⚡ I'm currently learning C++ and applying it to Unreal Engine ⚡ </h3>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelesiu&layout=compact)](https://github.com/mbelesiu/github-readme-stats)
 
