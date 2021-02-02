@@ -7,7 +7,6 @@
 <a href="https://www.linkedin.com/in/mbelesiu/" target="_blank">
   <img src="https://img.shields.io/badge/-MATTHEW%20BELESIU-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
-
 <!-- Email -->
 <a href="mailto:matt.belesiu@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-matt.belesiu@gmail.com-d44638?style=for-the-badge"/>
